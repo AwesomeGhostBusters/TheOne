@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GhostHunter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="play">Play</string>
+    <string name="options">Options</string>
+    <string-array></string-array>
+    <string name="group_names">University of Virginia CS 2110 Spring 2014 T102-003: Daniel Seelman, Brooke Williams, Mac Gotsch, Beini Hua</string>
+
+</resources>
